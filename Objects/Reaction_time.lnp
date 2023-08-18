@@ -1,0 +1,3 @@
+".\Objects\reaction_time.obj" 
+TO ".\Objects\Reaction_time" 
+PRINT(".\Listings\Reaction_time.m51") RAMSIZE(256) 
